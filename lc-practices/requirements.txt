@@ -18,3 +18,12 @@ langchain-pinecone
 pinecone-client
 
 pypdf
+
+wikipedia
+arxiv
+
+fastapi
+uvicorn
+langserve 
+sse_starlette
+pydantic
